@@ -2,8 +2,6 @@
 
 **Complete end-to-end healthcare analytics pipeline** with multi-source reconciliation, data quality monitoring, and real-time BI—built with **Mage.ai**, **dbt**, **Snowflake**, and **Power BI**.
 
-🌟 **Featured on:** Fortune 500 data engineering interviews | Production-ready architecture | All files visible on GitHub | ~55,000 words of documentation
-
 ---
 
 ## 🎯 What's This?
