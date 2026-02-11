@@ -726,7 +726,43 @@ Star schema ready for BI:
 - `models/source.yml` — Bronze source definitions
 
 ---
+## 📸 Dashboard & Architecture Visuals
 
+### Power BI Dashboards
+
+**Hospital Analytics Dashboard:**  
+Shows aggregated metrics across all 3 hospital systems with interactive filters.
+
+![Hospital Overview](Project_dashboard_Screenshot/hospital.png)
+
+**Doctor Performance Dashboard:**  
+Provider-level analytics including appointment volumes, patient satisfaction, and specialties.
+
+![Doctor Analytics](Project_dashboard_Screenshot/doctors.png)
+
+**Patient Database View:**  
+Patient master data with demographics, admission history, and care outcomes.
+
+![Patient Database](Project_dashboard_Screenshot/Patients_db.png)
+
+**Cover Page - Executive Dashboard:**  
+High-level KPIs and business metrics for hospital leadership.
+
+![Executive Dashboard](Project_dashboard_Screenshot/cover_page.png)
+
+### Mage.ai Orchestration
+
+**Data Pipeline Blocks:**  
+Shows the discovery → load → export flow for ELT orchestration.
+
+![Mage Pipeline Blocks](Project_dashboard_Screenshot/mage_blocks.png)
+
+**Mage UI - Master Pipeline:**  
+Real-time execution monitoring of multi-hospital data ingestion.
+
+![Mage Pipeline UI](Project_dashboard_Screenshot/mage_screenshot.png)
+
+---
 ## �🔐 Governance & Security Patterns
 
 ### Workspace & Database Access
