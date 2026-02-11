@@ -743,10 +743,6 @@ Patient master data with demographics, admission history, and care outcomes.
 
 ![Patient Database](Project_dashboard_Screenshot/Patients_db.png)
 
-**Cover Page - Executive Dashboard:**  
-High-level KPIs and business metrics for hospital leadership.
-
-![Executive Dashboard](Project_dashboard_Screenshot/cover_page.png)
 
 ### Mage.ai Orchestration
 
